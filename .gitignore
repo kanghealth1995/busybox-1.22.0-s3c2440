@@ -167,3 +167,5 @@ GTAGS
 /util-linux/volume_id/Config.in
 /util-linux/volume_id/Kbuild
 /rootfs.yaffs2
+/scripts/kconfig/conf
+
